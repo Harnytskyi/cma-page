@@ -43,3 +43,6 @@ saveCredentialsButton.addEventListener("click", () => {
   saveCredentials()
 })
 
+function aaa(){
+  console.log("aaa");
+}
